@@ -19,12 +19,12 @@ module.exports = {
 			defaultLeaveMessage: "{userName} đã {type} khỏi nhóm"
 		},
 		en: {
-			session1: "morning",
-			session2: "noon",
-			session3: "afternoon",
-			session4: "evening",
-			leaveType1: "left",
-			leaveType2: "was kicked from",
+			session1: "Ahnaf re abbu dak",
+			session2: "Ahnaf re abbu dak",
+			session3: "Ahnaf re abbu dak",
+			session4: "Ahnaf re abbu dak",
+			leaveType1: "Ahnaf re na boila gese koto boro kolija 😾",
+			leaveType2: " ja sala mara kha abar ahnaf te abbu dakbi 😾",
 			defaultLeaveMessage: "{userName} {type} the group"
 		}
 	},
